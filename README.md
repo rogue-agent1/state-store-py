@@ -1,0 +1,1 @@
+# state-store-py\n\nZero-dependency Python CLI.\n\n```bash\npython3 state_store.py\n```\n
